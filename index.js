@@ -14,7 +14,7 @@ function Navigate(){
 
 // Auto Text Type 
 var type = new Typed(".auto-input", {
-    strings: ["UI/UX Developer", "Frontend Developer","Programmer"],
+    strings: ["UI/UX Developer", "Best in ReactJs","Programmer","Full Stack Web-Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
